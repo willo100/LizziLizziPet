@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794144637701",
+    "firebase_url": "https://lizzipts.firebaseio.com",
+    "project_id": "lizzipts",
+    "storage_bucket": "lizzipts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794144637701:android:d3f68a487130b10e8c6d6c",
+        "android_client_info": {
+          "package_name": "com.Lizzi.LizziPet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794144637701-sclf2vcp7fkq1429p6go5d7mgdve8tj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWvkMB9_YUVgMmcF0CN7hvbZT8a8G58LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794144637701-sclf2vcp7fkq1429p6go5d7mgdve8tj1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "794144637701-0n8uspg699ssqe2ertfa34q19i6agcck.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Lizzi.LizziPet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
